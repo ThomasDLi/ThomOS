@@ -1,0 +1,5 @@
+install qemu and nasm then
+run these:
+
+sudo chmod +x build.sh
+sudo chmod +x run.sh
